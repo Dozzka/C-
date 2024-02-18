@@ -1,0 +1,6 @@
+C:\Users\Dozza\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Dozza\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Dozza\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Dozza\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Dozza\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Dozza\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

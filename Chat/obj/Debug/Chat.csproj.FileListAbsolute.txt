@@ -1,0 +1,11 @@
+E:\Учеба\C#\Проги\Chat\bin\Debug\Chat.exe
+E:\Учеба\C#\Проги\Chat\bin\Debug\Chat.pdb
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.Form1.resources
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.Form2.resources
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.exe
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.pdb
+E:\Учеба\C#\Проги\Chat\obj\Debug\Chat.Form3.resources
